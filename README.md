@@ -1,4 +1,4 @@
-# ChatGPT AI Voice Chatbot
+# ChatGPT AI Voice Chatbot ( I call it Mena Voice Chat GPT, because my fiancé knows everything 😂 )
 
 This is a web-based AI voice chatbot built using React, TypeScript, and Tailwind CSS. The chatbot is powered by the FastAPI combo and the OpenAI GPT-3 language model provided by OpenAI. The project utilizes the Elevenlabs API for voice input and output.
 
@@ -14,15 +14,13 @@ This is a web-based AI voice chatbot built using React, TypeScript, and Tailwind
 
 To use the chatbot, simply visit the web page and click on the microphone button to start speaking with the AI chatbot. The chatbot will respond in real-time using voice output and the conversation will be displayed on the screen.
 
-## Installation
-
-Sure, here are the steps to get your OpenAI API key, OpenAI org key, and Eleven Labs API key:
+Sure, here's an updated version of Step 2 of the installation instructions that includes the additional step of opening two terminals:
 
 ## Installation
 
 1. Clone the repository to your local machine.
 
-2. Install the dependencies using `npm install`.
+2. Install the dependencies using `npm install` for the frontend.
 
 3. Get your OpenAI API key and OpenAI org key:
    - Go to the [OpenAI website](https://openai.com/) and create an account if you haven't already.
@@ -44,7 +42,12 @@ Sure, here are the steps to get your OpenAI API key, OpenAI org key, and Eleven 
    - OpenAI provides a free trial of their GPT-3 API, but you need to add a credit card to your account to use the API beyond the trial period. This is to prevent abuse of the API and ensure fair usage.
    - Go to the [Billing page](https://beta.openai.com/billing) on the OpenAI website and follow the instructions to add a credit card to your account.
 
-7. Start the project using `npm start`.
+7. Open two terminals, one for the frontend and one for the backend:
+   # Backend
+   - In the first terminal, navigate to the root directory of the project and run the command `source venv/bin/activate` to activate the virtual environment.
+   - Next, run the command `uvicorn main:app --reload` to start the backend server.
+   # Frontend
+   - In the second terminal, navigate to the root directory of the project and run the command `yarn dev` to start the frontend development server.
 
 Now you should be able to use the ChatGPT AI Voice Chatbot on your local machine with the provided API keys.
 
