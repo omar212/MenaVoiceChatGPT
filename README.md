@@ -1,4 +1,5 @@
-# ChatGPT AI Voice Chatbot ( I call it Mena Voice Chat GPT, because my fiancé knows everything 😂 )
+# ChatGPT AI Voice Chatbot 
+## ( I call it Mena Voice Chat GPT, because my fiancé knows everything 😂 )
 
 This is a web-based AI voice chatbot built using React, TypeScript, and Tailwind CSS. The chatbot is powered by the FastAPI combo and the OpenAI GPT-3 language model provided by OpenAI. The project utilizes the Elevenlabs API for voice input and output.
 
