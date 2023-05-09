@@ -1,9 +1,9 @@
 # ChatGPT AI Voice Chatbot 
 ## ( I call it Mena Voice Chat GPT, because my fiancé knows everything 😂 )
 
-<div style="text-align:center">
+<p align="center">
   <img width="416" alt="MenaVoiceChatGPT" src="https://user-images.githubusercontent.com/34172611/237021444-9d5ef620-3f69-4c4c-9deb-f6f0338de60a.png">
-</div>
+</p>
 
 
 This is a web-based AI voice chatbot built using React, TypeScript, and Tailwind CSS. The chatbot is powered by the FastAPI combo and the OpenAI GPT-3 language model provided by OpenAI. The project utilizes the Elevenlabs API for voice input and output.
