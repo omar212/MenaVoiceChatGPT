@@ -1,10 +1,15 @@
+import Controller from "./components/Controller"
+
+
+
+
 function App() {
   
 
   return (
-    <>
-      hello
-    </>
+    <div>
+      <Controller />
+    </div>
   )
 }
 
