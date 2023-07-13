@@ -28,6 +28,7 @@ Sure, here's an updated version of Step 2 of the installation instructions that 
 1. Clone the repository to your local machine.
 
 2. Install the dependencies using `npm install` for the frontend.
+![Screenshot 2023-07-13 at 4 12 12 PM](https://github.com/omar212/MenaVoiceChatGPT/assets/34172611/a66f30d3-69a3-40a7-bef0-f16310e06026)
 
 3. Get your OpenAI API key and OpenAI org key:
    - Go to the [OpenAI website](https://openai.com/) and create an account if you haven't already.
