@@ -36,8 +36,8 @@ Sure, here's an updated version of Step 2 of the installation instructions that 
    - Make sure to copy the API key and org key and keep them in a safe place.
 
 4. Get your Eleven Labs API key:
-   - Go to the [Eleven Labs website](https://eleven-labs.com/en/) and create an account if you haven't already.
-   - After logging in, navigate to the [API page](https://docs.elevensights.com/reference/welcome-to-elevensights-api) and follow the instructions to get your API key.
+   - Go to the [[Eleven Labs website](https://eleven-labs.com/en/)](https://elevenlabs.io/) and create a free account if you haven't already. 
+   - After logging in, navigate to the bottom left corner of the screen where your profile picture is and click your image and look for "Profile + API Key"
    - Make sure to copy the API key and keep it in a safe place.
 
 5. Add the API keys to the `.env` file:
