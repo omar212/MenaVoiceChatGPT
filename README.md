@@ -1,5 +1,5 @@
 # ChatGPT AI Voice Chatbot 
-## ( I call it Mena Voice Chat GPT, because my fiancé knows everything 😂 )
+## ( I call it Mena Voice Chat GPT, because my wife knows everything 😂 )
 
 <p align="center">
   <img width="416" alt="MenaVoiceChatGPT" src="https://user-images.githubusercontent.com/34172611/237021444-9d5ef620-3f69-4c4c-9deb-f6f0338de60a.png">
